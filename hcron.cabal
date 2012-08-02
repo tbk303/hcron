@@ -1,9 +1,9 @@
 Name:                hcron
-Version:             0.0.0.1
+Version:             0.0.0.2
 License:             BSD3
 License-file:        LICENSE
-Author:              Timo B. Hübel
-Maintainer:          Timo B. Hübel <me@tbh.name>
+Author:              Timo B. Kranz
+Maintainer:          Timo B. Kranz <me@tbk.name>
 Build-Type:          Simple
 Cabal-Version:       >=1.6
 Stability:           experimental
