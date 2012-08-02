@@ -16,7 +16,7 @@ Description:
   BuildBox package by Ben Lippmeier.
 
 Synopsis:
-  A simple job scheduler for Haskell, which just runs some IO () action at a given time.
+  A simple job scheduler, which just runs some IO action at a given time.
 
 Tested-with:
         GHC == 7.0.3
